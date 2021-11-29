@@ -1,0 +1,109 @@
+"BxUlhf:/finance/_/GoogleFinanceUi:boq-finance.GoogleFinanceUi.en.zjs47c-PxTo.es5.O"	
+{sc: '', Qc: 'ADAsSlwep0-4Gk7SxLBeTtjtoLqx:1637268914082', Kc: 'hLzn1Dd7CuDEuryo/AxaYbTNKbs8ehPznH', Ga: '116498464608761075518', da: '/finance/_/GoogleFinanceUi', …}
+$c: "https://www.gstatic.com/_/mss/boq-finance/_/js/k=boq-finance.GoogleFinanceUi.en.zjs47c-PxTo.es5.O/am=QEAFBhAAAACA3gk6AQAAAAAAAIgoBAAAAAAAoIkACA/d=1/excm=_b,_tp,noopserviceworker_data/ed=1/dg=0/wt=2/esmo=1/rs=AC0raVL3BEMMR1CGtlhiv8aePYbRDSoNaA/m=_b,_tp"
+Ga: "116498464608761075518"
+Kc: "hLzn1Dd7CuDEuryo/AxaYbTNKbs8ehPznH"
+Qc: "ADAsSlwep0-4Gk7SxLBeTtjtoLqx:1637268914082"
+ab: "boq-finance.GoogleFinanceUi.en.zjs47c-PxTo.es5.O"
+da: "/finance/_/GoogleFinanceUi"
+oc: Array(42)
+0: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2"
+1: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2"
+2: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2"
+3: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2"
+4: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2"
+5: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2"
+6: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2"
+7: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu5mxKOzY.woff2"
+8: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7GxKOzY.woff2"
+9: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu72xKOzY.woff2"
+10: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7mxKOzY.woff2"
+11: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4WxKOzY.woff2"
+12: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7WxKOzY.woff2"
+13: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2"
+14: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2"
+15: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2"
+16: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2"
+17: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4.woff2"
+18: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2"
+19: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2"
+20: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2"
+21: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2"
+22: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBBc4.woff2"
+23: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2"
+24: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2"
+25: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2"
+26: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2"
+27: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2"
+28: "//fonts.gstatic.com/s/materialiconsextended/v109/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvJ.woff2"
+29: "//fonts.gstatic.com/s/googlematerialicons/v81/Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3Q.woff2"
+30: "//fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVGdeOcEg.woff2"
+31: "//fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2"
+32: "//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Nwp5MKg.woff2"
+33: "//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Awp5MKg.woff2"
+34: "//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Kwp5MKg.woff2"
+35: "//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Bwp5MKg.woff2"
+36: "//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2"
+37: "//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt3CwZ-Pw.woff2"
+38: "//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtzCwY.woff2"
+39: "//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtwCwZ-Pw.woff2"
+40: "//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt8CwZ-Pw.woff2"
+41: "//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt9CwZ-Pw.woff2"
+length: 42
+sc: ""
+xc: Array(7)
+0: "//ssl.gstatic.com/finance/favicon/favicon.png"
+1: "//ssl.gstatic.com/finance/favicon/finance_120x120.png"
+2: "//ssl.gstatic.com/finance/favicon/finance_152x152.png"
+3: "//ssl.gstatic.com/finance/favicon/finance_167x167.png"
+4: "//ssl.gstatic.com/finance/favicon/finance_180x180.png"
+5: "//ssl.gstatic.com/finance/favicon/finance_192x192.png"
+6: "//ssl.gstatic.com/finance/favicon/finance_512x512.png"
+length: 7
+
+
+
+
+0	/s/googlematerialicons/v81/Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3Q.woff2	cors	font/woff2	193,816	11/18/2021, 6:54:16 PM		
+1	/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Awp5MKg.woff2	cors	font/woff2	15,620	11/18/2021, 6:54:23 PM		
+2	/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Bwp5MKg.woff2	cors	font/woff2	9,244	11/18/2021, 6:54:23 PM		
+3	/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Kwp5MKg.woff2	cors	font/woff2	10,928	11/18/2021, 6:54:23 PM		
+4	/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Nwp5MKg.woff2	cors	font/woff2	9,064	11/18/2021, 6:54:23 PM		
+5	/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2	cors	font/woff2	21,464	11/18/2021, 5:45:29 PM		
+6	/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt3CwZ-Pw.woff2	cors	font/woff2	10,892	11/18/2021, 6:54:23 PM		
+7	/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt8CwZ-Pw.woff2	cors	font/woff2	9,396	11/18/2021, 6:54:23 PM		
+8	/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt9CwZ-Pw.woff2	cors	font/woff2	15,456	11/18/2021, 6:54:23 PM		
+9	/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtwCwZ-Pw.woff2	cors	font/woff2	9,116	11/18/2021, 6:54:23 PM		
+10	/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtzCwY.woff2	cors	font/woff2	21,700	11/18/2021, 6:54:16 PM		
+11	/s/materialiconsextended/v109/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvJ.woff2	cors	font/woff2	145,308	11/18/2021, 6:54:23 PM		
+12	/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2	cors	font/woff2	31,568	11/18/2021, 6:54:16 PM		
+13	/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVGdeOcEg.woff2	cors	font/woff2	18,436	11/18/2021, 6:54:23 PM		
+14	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2	cors	font/woff2	10,120	11/18/2021, 6:54:23 PM		
+15	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2	cors	font/woff2	15,552	11/18/2021, 6:54:16 PM		
+16	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2	cors	font/woff2	7,192	11/18/2021, 6:54:23 PM		
+17	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2	cors	font/woff2	1,536	11/18/2021, 6:54:23 PM		
+18	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2	cors	font/woff2	15,284	11/18/2021, 6:54:23 PM		
+19	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2	cors	font/woff2	11,804	11/18/2021, 6:54:23 PM		
+20	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2	cors	font/woff2	5,284	11/18/2021, 6:54:23 PM		
+21	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2	cors	font/woff2	9,748	11/18/2021, 6:54:23 PM		
+22	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBBc4.woff2	cors	font/woff2	15,440	11/18/2021, 6:54:23 PM		
+23	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2	cors	font/woff2	7,304	11/18/2021, 6:54:23 PM		
+24	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2	cors	font/woff2	1,512	11/18/2021, 6:54:23 PM		
+25	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2	cors	font/woff2	15,168	11/18/2021, 6:54:23 PM		
+26	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2	cors	font/woff2	11,800	11/18/2021, 6:54:23 PM		
+27	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2	cors	font/woff2	5,192	11/18/2021, 6:54:23 PM		
+28	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2	cors	font/woff2	9,832	11/18/2021, 6:54:23 PM		
+29	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4.woff2	cors	font/woff2	15,436	11/18/2021, 6:54:16 PM		
+30	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2	cors	font/woff2	7,060	11/18/2021, 6:54:23 PM		
+31	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2	cors	font/woff2	1,456	11/18/2021, 6:54:23 PM		
+32	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2	cors	font/woff2	14,928	11/18/2021, 6:54:23 PM		
+33	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2	cors	font/woff2	11,772	11/18/2021, 6:54:23 PM		
+34	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2	cors	font/woff2	5,164	11/18/2021, 6:54:23 PM		
+35	/s/roboto/v18/KFOmCnqEu92Fr1Mu4WxKOzY.woff2	cors	font/woff2	7,276	11/18/2021, 6:54:23 PM		
+36	/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2	cors	font/woff2	15,344	11/18/2021, 5:45:36 PM		
+37	/s/roboto/v18/KFOmCnqEu92Fr1Mu5mxKOzY.woff2	cors	font/woff2	9,832	11/18/2021, 6:54:23 PM		
+38	/s/roboto/v18/KFOmCnqEu92Fr1Mu72xKOzY.woff2	cors	font/woff2	15,500	11/18/2021, 6:54:23 PM		
+39	/s/roboto/v18/KFOmCnqEu92Fr1Mu7GxKOzY.woff2	cors	font/woff2	11,936	11/18/2021, 6:54:23 PM		
+40	/s/roboto/v18/KFOmCnqEu92Fr1Mu7WxKOzY.woff2	cors	font/woff2	5,224	11/18/2021, 6:54:23 PM		
+41	/s/roboto/v18/KFOmCnqEu92Fr1Mu7mxKOzY.woff2	cors	font/woff2	1,544	11/18/2021, 6:54:23 PM		
+42	/finance/_/GoogleFinanceUi/offline/	basic	text/html; charset=utf-8	0	11/18/2021, 6:54:20 PM	Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site	
